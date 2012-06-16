@@ -1,0 +1,5 @@
+
+  -- python-atomicfile
+
+  Implements tools for simple atomic filesystem operations.
+
